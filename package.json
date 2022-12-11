@@ -60,7 +60,7 @@
   "dependencies": {
     "after": "~0.8.2",
     "b1": "^1.1.1",
-    "bl": "^4.0.0",
+    "bl": "^4.1.0",
     "boganipsum": "~0.2.0",
     "colors-tmpl": "^1.0.0",
     "combined-stream": "^1.0.8",
